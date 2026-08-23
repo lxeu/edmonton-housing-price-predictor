@@ -3,7 +3,7 @@
 Multivariable linear regression predicting Edmonton house prices from four
 features, with Gradient descent implemented from scratch.
 
-## Running it
+## Quick Start
 pip install -r requirements.txt
 python src/main.py
 
