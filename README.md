@@ -5,9 +5,10 @@ features, with gradient descent implemented from scratch.
 
 ## Quick Start
 
+```bash
 pip install -r requirements.txt
-
 python src/main.py
+```
 
 ## Data
 
