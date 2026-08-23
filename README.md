@@ -1,9 +1,10 @@
 # Edmonton Housing Price Predictor
 
 Multivariable linear regression predicting Edmonton house prices from four
-features, with Gradient descent implemented from scratch.
+features, with gradient descent implemented from scratch.
 
 ## Quick Start
+
 pip install -r requirements.txt
 python src/main.py
 
