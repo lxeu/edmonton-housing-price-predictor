@@ -1,4 +1,4 @@
-# Edmonton Housing Price Predictor
+# Edmonton Housing Price Predictor 🏠
 
 Multivariable linear regression predicting Edmonton house prices from four
 features, with gradient descent implemented from scratch.
