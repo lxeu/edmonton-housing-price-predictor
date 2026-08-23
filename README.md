@@ -40,7 +40,7 @@ Trained for 500 iterations at a learning rate of 0.01.
 
 ![Cost curve](figures/cost.png)
 
-Cost falls from 1.04e+11 to 1.03e+10 and flattens by roughly iteration 250,
+Cost falls from 1.04e+11 to 1.03e+10 and flattens roughly around the 250th iteration,
 confirming convergence.
 
 | Feature | Weight |
