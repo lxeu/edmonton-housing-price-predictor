@@ -6,6 +6,7 @@ features, with gradient descent implemented from scratch.
 ## Quick Start
 
 pip install -r requirements.txt
+
 python src/main.py
 
 ## Data
@@ -14,6 +15,7 @@ Edmonton housing listings from [Kaggle](https://www.kaggle.com/datasets/dilshaan
 1653 houses.
 
 **Features:** square footage, bedrooms, bathrooms, year built
+
 **Target:** listing price
 
 Rows were dropped for missing values, prices at or above $1.5M, square
