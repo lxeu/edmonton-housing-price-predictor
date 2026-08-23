@@ -52,7 +52,7 @@ confirming convergence.
 
 Weights are in normalized units. For example, square footage's 140,139 means a house one standard deviation larger than average with the other three features unchanged is worth $140,139 more.
 
-Square footage is the most impactful factor as expected, at more than twice the weight of the second strongest feature. Bedrooms and bathrooms both contribute meaningfully on top of it, demonstrating that even after accounting for total size, how that space is divided still moves the price, and bedrooms matter about twice as much as bathrooms. Year built came out at negligible. I believe that this suggests older homes tend to sit in central neighbourhoods, resulting in a higher price whereas the newer ones are further out. The two effects likely cancel in a model that can't see where a house is.
+Square footage is the most impactful factor as expected, at more than twice the weight of the second strongest feature. Bedrooms and bathrooms both contribute meaningfully on top of it, demonstrating that even after accounting for total size, how that space is divided still moves the price, and bedrooms matter about twice as much as bathrooms. Year built came out at negligible. I believe that this suggests older homes tend to sit in central neighbourhoods, resulting in a higher price whereas the newer ones are further out.
 
 ![Predicted vs actual](figures/predicted_vs_actual.png)
 
